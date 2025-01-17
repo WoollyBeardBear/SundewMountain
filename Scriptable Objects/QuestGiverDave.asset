@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef4c4f061dbd49d093c88bc8d7aaec1, type: 3}
+  m_Name: QuestGiverDave
+  m_EditorClassIdentifier: 
+  line:
+  - 'Welcome to Sundew Mountain! '
+  - 'I am Dave, here to help you get started. You can move around with the W, A,S,
+    D keys and attack with a simple mouse-click! '
+  - If you would like to chop down a tree for resources you can do that simply by
+    pressing the space bar when next to one, and you can interact with people and
+    objects by pressing E.
+  - First things first, you will find a sword and an axe in the chest to the right.
+    Make sure you have selected the correct tool from the toolbar before you attack
+    or chop a tree!
+  - The reason I have brought you here is to rescue my daughter from the Orcs in
+    the south west corner of this map by the lake!
+  - If you need there are chest across this landscape that may help in your fight
+    to bring home my daughter!
+  actor: {fileID: 11400000, guid: 5aeac0ed961494fe99b71d8cad4ad0ac, type: 2}
